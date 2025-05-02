@@ -1,0 +1,5 @@
+outs:
+- md5: f7b8da79760b55e92eeccb2e805979af
+  size: 87569
+  hash: md5
+  path: vw_JoinData.csv

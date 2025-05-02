@@ -1,0 +1,5 @@
+outs:
+- md5: 2dfc0e65a7b46d4a65056a9d1e2d9c1e
+  size: 50015
+  hash: md5
+  path: vw_JoinData_prc.csv

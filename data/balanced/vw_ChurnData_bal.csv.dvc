@@ -1,0 +1,5 @@
+outs:
+- md5: 8f9c57dd5bd2368968b4f4d9aae22ed4
+  size: 1050981
+  hash: md5
+  path: vw_ChurnData_bal.csv
